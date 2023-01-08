@@ -1,4 +1,6 @@
-# Samsung FRP Bypass
+# Samsung FRP Bypass with GTK4 frontend
+
+This is very WIP.
 
 A blog article available in english and in french explaining how the scripts work can be found [here](https://blog-cyber.riskeco.com/en/analysis-of-samsung-frp-bypass/)  
 
